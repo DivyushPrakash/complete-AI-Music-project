@@ -1,0 +1,39 @@
+.heading {
+    font-size: 28px;
+    width: 100%;
+    margin-top: 0px;
+    background-color: rgba(30, 255, 0, 0.562);
+    padding: 20px;
+}
+
+.note {
+    font-size: 22px;
+}
+
+body {
+    background-size: cover;
+}
+
+.speeddiv {
+    float: left;
+}
+
+.volumediv {
+    float: right;
+}
+
+.disk_img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+.divlabel {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    margin: 15px;
+}
+
+canvas {
+    margin-top: 120px;
+}
